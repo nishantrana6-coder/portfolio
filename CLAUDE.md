@@ -23,11 +23,11 @@ should add something the resume can't: reasoning, approach, point of view.
   (Claude Code, model routing, RAG); cut research time 4 hrs → ~10 min
 
 ## DELETE from the current live site (do not preserve)
-- KeyPath entirely (no longer current or any role)
-- Vitalise Ventures as an employer; its work now sits under Sparc AI Product Intern
-- The "10K projected users / Vitalise" framing — resume says 10K reached, at Sparc
-- The "Student Consultant · Duke DTI" framing on Sparc metrics
-- The Google Drive resume link — self-host the final PDF in this repo instead
+All done — KeyPath and Vitalise Ventures removed, Work/Impact sections rebuilt
+around the two Sparc roles and merged Infosys role, 10K stat reframed as
+reached-at-Sparc, "Student Consultant · Duke DTI" mislabel gone, and the
+resume button/link now points to the self-hosted `Nishant_Rana_Resume.pdf`
+instead of Google Drive.
 
 ## Identity / hero (replace the current "high-impact, user-first" line)
 Lead with AI PM positioning, matching LinkedIn:
